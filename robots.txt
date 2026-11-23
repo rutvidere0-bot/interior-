@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with your real deployed URL:
+Sitemap: https://example.com/maison-elan/sitemap.xml
